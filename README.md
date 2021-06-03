@@ -1,4 +1,4 @@
-![A Surly Bridge Club bike laying on its side in front of a river with a sunlit mountain in the background](./img/river.jpg)
+![A Surly Bridge Club bike laying on its side in front of a river with a sunlit mountain in the background](./river.jpg)
 
 I'm Luke (he/him) and I work at GitHub on the [npm](https://github.com/npm) cli team.
 
