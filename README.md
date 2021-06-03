@@ -4,7 +4,10 @@ I'm Luke (he/him) and I work at GitHub on the [npm](https://github.com/npm) cli 
 
 I like:
 - going [outside](https://instagram.com/lukes.outside)
-- building weird websites like [a youtube playlist music player](https://livefromquarantine.club/), [a bracket challenge site I run for no reason](https://bracket.club), and [an emoji fortune cookie generator](https://emojifortunes.lukecod.es/)
+- building weird websites like:
+  - [a youtube playlist music player](https://livefromquarantine.club/)
+  - [a bracket challenge site I run for no reason](https://bracket.club)
+  - [an emoji fortune cookie generator](https://emojifortunes.lukecod.es/)
 - taking [photos](https://photos.lukelov.es)
 - riding my bike to drink [coffee](https://lukelov.es/tags/coffeeneuring/)
 
