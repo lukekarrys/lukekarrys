@@ -8,7 +8,7 @@ I'm Luke (he/him) and that's my favorite spot to ride my bike to. I work at GitH
 - 📷 take [photos](https://photos.lukelov.es)
 - 🚴 ride my bike to drink ☕ [coffee](https://lukelov.es/tags/coffeeneuring/)
 - 📝 jot down some [thoughts about code](https://lukecod.es)
-- 🌐 open source software [https://github.com/lukekarrys?tab=repositories]
+- 🌐 open source (my code)[https://github.com/lukekarrys?tab=repositories]
 - 💻 build weird web stuff:
   - 🏅 [a bracket challenge site](https://bracket.club)
   - 🥠 [an emoji fortune cookie generator](https://emojifortunes.lukecod.es/)
