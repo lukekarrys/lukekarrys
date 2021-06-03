@@ -11,3 +11,5 @@ I'm Luke (he/him) and I work at GitHub on the [npm](https://github.com/npm) cli 
 - 🚴 riding my bike to drink ☕ [coffee](https://lukelov.es/tags/coffeeneuring/)
 
 Feel free to [reach out](https://lukekarrys.com) about any of the above!
+
+<wck-hit-counter host="lukeswickedcoolkit.herokuapp.com"></wck-hit-counter>
