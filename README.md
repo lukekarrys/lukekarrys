@@ -1,8 +1,6 @@
 ![A Surly Bridge Club bike laying on its side in front of a river with a sunlit mountain in the background](./river.jpg)
 
-I'm Luke (he/him) and that's my favorite spot to ride my bike to.
-
-I work at GitHub on the [npm](https://github.com/npm) cli team.
+I'm Luke (he/him) and that's my favorite spot to ride my bike to. I work at GitHub on the [npm](https://github.com/npm) cli team.
 
 **Here are some things that I like doing:**
 
