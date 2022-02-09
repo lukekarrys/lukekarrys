@@ -1,12 +1,12 @@
-![A Surly Bridge Club bike laying on its side in front of a river with a sunlit mountain in the background](./river.jpg)
+![Four peaks shadows](https://photos.lukelov.es//photos/large/Four%20peaks%20shadows-686656.jpeg)
 
-I'm Luke (he/him) and that's my favorite spot to ride my bike to. I work at GitHub on the [npm](https://github.com/npm) cli team.
+I'm Luke (he/him) and that's my favorite spot to ride my bike to. I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
-**Here are some things that I like to do:**
+**Some other things I like to do:**
 
 - ⛰️ go [outside](https://instagram.com/lukes.outside)
 - 📷 take [photos](https://photos.lukelov.es)
-- 🚴 ride my bike to drink ☕ [coffee](https://lukelov.es/tags/coffeeneuring/)
+- 🚴 [ride my bike](https://lukelov.es/tags/bikes/) to drink ☕ [coffee](https://lukelov.es/tags/coffeeneuring/)
 - 📝 jot down some [thoughts about code](https://lukecod.es)
 - 🌐 open source [my code](https://github.com/lukekarrys?tab=repositories)
 - 💻 build weird web stuff:
