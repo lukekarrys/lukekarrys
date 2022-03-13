@@ -14,8 +14,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - name: Filter Notifications
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: npm ci
       - run: npm start -w filter-notifications
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

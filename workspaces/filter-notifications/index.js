@@ -1,33 +1,6 @@
 const { Octokit } = require("@octokit/core");
 const { isMatchWith, isRegExp } = require("lodash");
-
-// https://docs.github.com/en/github-ae@latest/rest/reference/activity#list-notifications-for-the-authenticated-user
-const FILTERS = {
-  deps: {
-    reason: "review_requested",
-    subject: {
-      title: /^(deps: |chore: update )/,
-      type: "PullRequest",
-    },
-    repository: {
-      owner: {
-        login: "npm",
-      },
-    },
-  },
-  release: {
-    reason: "review_requested",
-    subject: {
-      title: /^chore: release /,
-      type: "PullRequest",
-    },
-    repository: {
-      owner: {
-        login: "npm",
-      },
-    },
-  },
-};
+const FILTERS = require("./config.js");
 
 const match = (notification, [name, filter]) =>
   isMatchWith(notification, filter, (obj, source) => {
