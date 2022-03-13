@@ -1,0 +1,24 @@
+{
+  "name": "filter-notifications",
+  "version": "1.0.0",
+  "author": "Luke Karrys",
+  "bugs": {
+    "url": "https://github.com/lukekarrys/lukekarrys/issues"
+  },
+  "dependencies": {
+    "@octokit/core": "^3.5.1",
+    "lodash": "^4.17.21"
+  },
+  "homepage": "https://github.com/lukekarrys/lukekarrys#readme",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukekarrys/lukekarrys.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

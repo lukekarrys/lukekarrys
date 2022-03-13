@@ -1,0 +1,21 @@
+name: Filter Notifications
+
+on:
+  schedule:
+    # https://crontab.guru/#*/15_*_*_*_*
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Filter Notifications
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: npm ci
+      - run: npm start -w filter-notifications

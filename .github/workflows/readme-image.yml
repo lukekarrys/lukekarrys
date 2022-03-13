@@ -1,0 +1,27 @@
+name: Readme Image
+
+on:
+  schedule:
+    # https://crontab.guru/#0_8_*_*_2
+    - cron: "0 8 * * 2"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Readme Image
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: npm ci
+      - run: npm start -w readme-image
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update readme image"
+          git push

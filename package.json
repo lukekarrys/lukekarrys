@@ -1,0 +1,25 @@
+{
+  "name": "lukekarrys",
+  "version": "1.0.0",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/lukekarrys/lukekarrys/issues"
+  },
+  "devDependencies": {
+    "prettier": "*"
+  },
+  "homepage": "https://github.com/lukekarrys/lukekarrys#readme",
+  "keywords": [],
+  "license": "ISC",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukekarrys/lukekarrys.git"
+  },
+  "scripts": {
+    "format": "prettier . --write"
+  },
+  "workspaces": [
+    "workspaces/*"
+  ]
+}
