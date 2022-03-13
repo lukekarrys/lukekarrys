@@ -1,9 +1,9 @@
 // https://docs.github.com/en/github-ae@latest/rest/reference/activity#list-notifications-for-the-authenticated-user
-module.exports = {
+module.exports = Object.entries({
   deps: {
     reason: "review_requested",
     subject: {
-      title: /^(deps: |chore: update )/,
+      title: /^(deps:|chore: update) /,
       type: "PullRequest",
     },
     repository: {
@@ -24,4 +24,4 @@ module.exports = {
       },
     },
   },
-};
+});

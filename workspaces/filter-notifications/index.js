@@ -1,6 +1,6 @@
 const { Octokit } = require("@octokit/core");
 const { isMatchWith, isRegExp } = require("lodash");
-const FILTERS = require("./config.js");
+const filters = require("./config.js");
 
 const match = (notification, [name, filter]) =>
   isMatchWith(notification, filter, (obj, source) => {
@@ -20,23 +20,17 @@ const readAndUnsub = async (octokit, notification) => {
 
 const main = async ({ dry = true } = {}) => {
   const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
-
   const notifications = await octokit.request("GET /notifications", {
     per_page: 100,
   });
-  const filters = Object.entries(FILTERS);
 
   let count = 0;
 
   for (const notification of notifications.data) {
-    const title = `${notification.repository?.full_name}= ${notification.subject?.title}`;
-    console.log(title);
-
     for (const filter of filters) {
       const matched = match(notification, filter);
       if (matched) {
         !dry && (await readAndUnsub(octokit, notification));
-        console.log(`  --> match: ${matched}`);
         count++;
         break;
       }
