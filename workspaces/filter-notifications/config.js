@@ -1,4 +1,4 @@
-// https://docs.github.com/en/github-ae@latest/rest/reference/activity#list-notifications-for-the-authenticated-user
+// https://docs.github.com/en/rest/reference/activity#list-notifications-for-the-authenticated-user
 module.exports = Object.entries({
   deps: {
     reason: "review_requested",
