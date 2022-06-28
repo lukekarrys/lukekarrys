@@ -1,4 +1,4 @@
-[![Wi Kawatha and Wi Khoba](https://photos.lukelov.es//photos/large/Wi%20Kawatha%20and%20Wi%20Khoba-686656.jpeg)](https://photos.lukelov.es/wi-kawatha-and-wi-khoba/)
+[![Fixed shadows](https://photos.lukelov.es//photos/large/Fixed%20shadows-686656.jpeg)](https://photos.lukelov.es/fixed-shadows/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
