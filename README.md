@@ -1,4 +1,4 @@
-[![Red rocks](https://photos.lukelov.es//photos/large/Red%20rocks-686656.jpeg)](https://photos.lukelov.es/red-rocks/)
+[![Diamond Point lookout](https://photos.lukelov.es//photos/large/Diamond%20Point%20lookout-686656.jpeg)](https://photos.lukelov.es/diamond-point-lookout/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
