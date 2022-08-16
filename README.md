@@ -1,4 +1,4 @@
-[![Red rocks](https://photos.lukelov.es//photos/large/Red%20rocks-686656.jpeg)](https://photos.lukelov.es/red-rocks/)
+[![Fork in the road](https://photos.lukelov.es//photos/large/Fork%20in%20the%20road-686656.jpeg)](https://photos.lukelov.es/fork-in-the-road/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
