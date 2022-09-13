@@ -1,4 +1,4 @@
-[![Camp coffee](https://photos.lukelov.es//photos/large/Camp%20coffee-686656.jpeg)](https://photos.lukelov.es/camp-coffee/)
+[![Superstition black and white](https://photos.lukelov.es//photos/large/Superstition%20black%20and%20white-686656.jpeg)](https://photos.lukelov.es/superstition-black-and-white/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
