@@ -1,4 +1,4 @@
-[![Four peaks shadows](https://photos.lukelov.es//photos/large/Four%20peaks%20shadows-686656.jpeg)](https://photos.lukelov.es/four-peaks-shadows/)
+[![Bridge club in the rain](https://photos.lukelov.es//photos/large/Bridge%20club%20in%20the%20rain-686656.jpeg)](https://photos.lukelov.es/bridge-club-in-the-rain/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
