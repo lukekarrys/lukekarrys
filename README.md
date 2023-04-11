@@ -1,4 +1,4 @@
-[![Cairn](https://photos.lukelov.es//photos/large/Cairn-686656.jpeg)](https://photos.lukelov.es/cairn/)
+[![Camp coffee](https://photos.lukelov.es//photos/large/Camp%20coffee-686656.jpeg)](https://photos.lukelov.es/camp-coffee/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
