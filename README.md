@@ -1,4 +1,4 @@
-[![Bridge roller](https://photos.lukelov.es//photos/large/Bridge%20roller-686656.jpeg)](https://photos.lukelov.es/bridge-roller/)
+[![Snow on four peaks](https://photos.lukelov.es//photos/large/Snow%20on%20four%20peaks-686656.jpeg)](https://photos.lukelov.es/snow-on-four-peaks/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
