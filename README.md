@@ -1,4 +1,4 @@
-[![Control road](https://photos.lukelov.es//photos/large/Control%20road-686656.jpeg)](https://photos.lukelov.es/control-road/)
+[![Look no hands](https://photos.lukelov.es//photos/large/Look%20no%20hands-686656.jpeg)](https://photos.lukelov.es/look-no-hands/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
