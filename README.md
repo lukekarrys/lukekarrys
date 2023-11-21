@@ -1,4 +1,4 @@
-[![shark bike](https://photos.lukelov.es//photos/large/shark%20bike-686656.jpeg)](https://photos.lukelov.es/shark-bike/)
+[![mazatals in the distance](https://photos.lukelov.es//photos/large/mazatals%20in%20the%20distance-686656.jpg)](https://photos.lukelov.es/mazatals-in-the-distance/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
