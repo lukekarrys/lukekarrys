@@ -1,4 +1,4 @@
-[![mazatals in the distance](https://photos.lukelov.es//photos/large/mazatals%20in%20the%20distance-686656.jpg)](https://photos.lukelov.es/mazatals-in-the-distance/)
+[![Snow on four peaks](https://photos.lukelov.es//photos/large/Snow%20on%20four%20peaks-686656.jpeg)](https://photos.lukelov.es/snow-on-four-peaks/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
