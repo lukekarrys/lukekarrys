@@ -1,4 +1,4 @@
-[![mazatals in the distance](https://photos.lukelov.es//photos/large/mazatals%20in%20the%20distance-686656.jpg)](https://photos.lukelov.es/mazatals-in-the-distance/)
+[![cacti](https://photos.lukelov.es//photos/large/cacti-686656.jpg)](https://photos.lukelov.es/cacti/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
