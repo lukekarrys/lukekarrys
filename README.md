@@ -1,4 +1,4 @@
-[![fixed flowers](https://photos.lukelov.es//photos/large/fixed%20flowers-686656.jpeg)](https://photos.lukelov.es/fixed-flowers/)
+[![palm trees on the canal](https://photos.lukelov.es//photos/large/palm%20trees%20on%20the%20canal-686656.jpg)](https://photos.lukelov.es/palm-trees-on-the-canal/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
