@@ -1,4 +1,4 @@
-[![Control road](https://photos.lukelov.es//photos/large/Control%20road-686656.jpeg)](https://photos.lukelov.es/control-road/)
+[![Steamroller](https://photos.lukelov.es//photos/large/Steamroller-686656.jpeg)](https://photos.lukelov.es/steamroller/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
