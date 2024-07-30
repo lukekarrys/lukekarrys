@@ -1,4 +1,4 @@
-[![My Shadow](https://photos.lukelov.es//photos/large/My%20Shadow-686656.jpg)](https://photos.lukelov.es/my-shadow/)
+[![flowers and vases](https://photos.lukelov.es//photos/large/flowers%20and%20vases-686656.jpg)](https://photos.lukelov.es/flowers-and-vases/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
