@@ -1,4 +1,4 @@
-[![locked up](https://photos.lukelov.es//photos/large/locked%20up-686656.jpg)](https://photos.lukelov.es/locked-up/)
+[![bee](https://photos.lukelov.es//photos/large/bee-686656.jpeg)](https://photos.lukelov.es/bee/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
