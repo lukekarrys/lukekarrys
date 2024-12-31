@@ -1,4 +1,4 @@
-[![flowers and vases](https://photos.lukelov.es//photos/large/flowers%20and%20vases-686656.jpg)](https://photos.lukelov.es/flowers-and-vases/)
+[![bike hauling bike](https://photos.lukelov.es//photos/large/bike%20hauling%20bike-686656.jpeg)](https://photos.lukelov.es/bike-hauling-bike/)
 
 I'm Luke (he/him) 👋🏼! I work at GitHub on the [npm](https://github.com/npm) cli team. Here's what I'm up to [right now](https://lukelov.es/now/).
 
