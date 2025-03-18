@@ -1,4 +1,4 @@
-[![locked up](https://photos.lukelov.es//photos/large/locked%20up-686656.jpg)](https://photos.lukelov.es/locked-up/)
+[![palm trees on the canal](https://photos.lukelov.es//photos/large/palm%20trees%20on%20the%20canal-686656.jpg)](https://photos.lukelov.es/palm-trees-on-the-canal/)
 
 I'm Luke (he/him) 👋🏼! I work at [vlt](https://github.com/vltpkg) working on the future of JavaScript packages. Here's what I'm up to [right now](https://lukelov.es/now/).
 
