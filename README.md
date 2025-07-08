@@ -1,4 +1,4 @@
-[![Bridge roller](https://photos.lukelov.es//photos/large/Bridge%20roller-686656.jpeg)](https://photos.lukelov.es/bridge-roller/)
+[![Underpass oasis](https://photos.lukelov.es//photos/large/Underpass%20oasis-686656.jpeg)](https://photos.lukelov.es/underpass-oasis/)
 
 I'm Luke (he/him) 👋🏼! I work at [vlt](https://github.com/vltpkg) working on the future of JavaScript packages. Here's what I'm up to [right now](https://lukelov.es/now/).
 
