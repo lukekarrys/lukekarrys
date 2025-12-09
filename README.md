@@ -1,4 +1,4 @@
-[![wilde mountain](https://photos.lukelov.es//photos/large/wilde%20mountain-686656.jpeg)](https://photos.lukelov.es/wilde-mountain/)
+[![Superstition black and white](https://photos.lukelov.es//photos/large/Superstition%20black%20and%20white-686656.jpeg)](https://photos.lukelov.es/superstition-black-and-white/)
 
 I'm Luke (he/him) 👋🏼! I work at [vlt](https://github.com/vltpkg) working on the future of JavaScript packages. Here's what I'm up to [right now](https://lukelov.es/now/).
 
