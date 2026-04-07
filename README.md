@@ -1,4 +1,4 @@
-[![Underpass oasis](https://photos.lukelov.es//photos/large/Underpass%20oasis-686656.jpeg)](https://photos.lukelov.es/underpass-oasis/)
+[![locked up](https://photos.lukelov.es//photos/large/locked%20up-686656.jpg)](https://photos.lukelov.es/locked-up/)
 
 I'm Luke (he/him) 👋🏼! I work at [vlt](https://github.com/vltpkg) working on the future of JavaScript packages. Here's what I'm up to [right now](https://lukelov.es/now/).
 
