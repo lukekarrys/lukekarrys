@@ -1,4 +1,4 @@
-[![cactus suit](https://photos.lukelov.es//photos/large/cactus%20suit-686656.jpeg)](https://photos.lukelov.es/cactus-suit/)
+[![cathedral rock at night](https://photos.lukelov.es//photos/large/cathedral%20rock%20at%20night-686656.jpeg)](https://photos.lukelov.es/cathedral-rock-at-night/)
 
 I'm Luke (he/him) 👋🏼! I work at [vlt](https://github.com/vltpkg) working on the future of JavaScript packages. Here's what I'm up to [right now](https://lukelov.es/now/).
 
