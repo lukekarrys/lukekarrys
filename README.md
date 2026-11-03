@@ -1,4 +1,4 @@
-[![shark bike](https://photos.lukelov.es//photos/large/shark%20bike-686656.jpeg)](https://photos.lukelov.es/shark-bike/)
+[![rainbow canal](https://photos.lukelov.es//photos/large/rainbow%20canal-686656.jpeg)](https://photos.lukelov.es/rainbow-canal/)
 
 I'm Luke (he/him) 👋🏼! I work at [vlt](https://github.com/vltpkg) working on the future of JavaScript packages. Here's what I'm up to [right now](https://lukelov.es/now/).
 
